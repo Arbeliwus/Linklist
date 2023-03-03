@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\user\source\repos\linked list\linked list\main.cpp(2): warning C4067: 未預期的語彙基元，接著前置處理器指示詞 - 必須是新行
+c:\users\user\source\repos\linked list\linked list\main.cpp(26): warning C4326: 'main' 的傳回類型應該是 'int'，而非 'void'
+  linked list.vcxproj -> C:\Users\user\source\repos\linked list\Debug\linked list.exe
